@@ -1,15 +1,13 @@
 {
   "name": "stylelint-config-vue-scss",
   "version": "1.0.0",
-  "description": "",
+  "description": "stylelint config vue scss",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/wellfrog16/stylelint-config-vue-scss",
   "keywords": [
-    "eslint-config"
+    "stylelint-config"
   ],
   "files": [
     "index.js"
