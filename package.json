@@ -1,5 +1,5 @@
 {
-  "name": "@frog-res/stylelint-config-vue-scss",
+  "name": "@wfrog/stylelint-config-vue-scss",
   "version": "1.0.0",
   "description": "stylelint config vue scss",
   "main": "index.js",
