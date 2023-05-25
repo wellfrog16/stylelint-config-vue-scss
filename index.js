@@ -19,6 +19,8 @@ module.exports = {
         'selector-pseudo-class-no-unknown': [true, { ignorePseudoClasses: ['global'] }],
         'selector-list-comma-newline-after': 'always-multi-line', // 不允许多行
         'no-descending-specificity': null, // 选择器顺序，此功能bug太多
+        "value-keyword-case": ["lower", { "ignoreFunctions": ["v-bind"] }], // 忽略 vue3 绑定样式
+        "font-family-no-missing-generic-family-keyword": [true, { "ignoreFontFamilies": ["iconfont"] }], // 忽略 iconfont 的字体模式
         // ---
         'scss/at-extend-no-missing-placeholder': null,
     },
